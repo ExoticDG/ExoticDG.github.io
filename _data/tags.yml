@@ -1,8 +1,8 @@
-tag1:
-  name: tag1
+projects:
+  name: projects
 
-tag2:
-  name: tag2
+products:
+  name: products
 
 tag3:
   name: tag3

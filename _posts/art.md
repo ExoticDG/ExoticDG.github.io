@@ -24,6 +24,14 @@ It works on any computer that has HDMI and two USB A ports or a Thunderbolt port
 
 https://www.huion.com/products/pen_display/Kamvas/kamvas-16-gen-3.html
 
+
+### KAMVAS 13 Gen 3 :
+
+A smaller and cheaper verstion of the 16 Gen 3.
+
+https://www.huion.com/products/pen_display/Kamvas/kamvas-13-gen-3.html
+
+
 ### KAMVAS Slate 11 : 
 
 This is a stand alone art tablet smiler to the KAMVAS 16 Gen 3.
